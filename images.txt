@@ -4,3 +4,4 @@ nolanhzy/pro
 shufflewzc/qrbbitpro
 ht944/rabbitpro
 6053537/portainer-ce
+mlikiowa/napcat-framework-docker
